@@ -1,0 +1,11 @@
+#spring:
+  #data:
+    #mongodb:
+      #database: employees
+      #host: devmongo
+      #port: 27017
+#spring.data.mongodb:
+  #database: employees # Database name.
+  #uri: mongodb://34.228.190.228:27017 # Mongo database URI. Cannot be set with host, port and credentials.
+#server:
+  #port: 8000
